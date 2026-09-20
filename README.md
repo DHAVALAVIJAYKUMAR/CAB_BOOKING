@@ -1,4 +1,4 @@
-# 🚗 Ride-PK — Full Stack Cab Booking App
+# 🚗 Ride— Full Stack Cab Booking App
 
 **A modern mobile ride-booking app inspired by inDrive and Yango — built with real-world full-stack technologies.**
 
